@@ -36,9 +36,9 @@ joblib==1.0.1
     #   wildebeest
 kiwisolver==1.3.1
     # via matplotlib
-matplotlib==3.4.1
+matplotlib==3.3.1
     # via octopod (setup.py)
-numpy==1.20.2
+numpy==1.19.5
     # via
     #   fastprogress
     #   matplotlib
@@ -54,7 +54,7 @@ opencv-contrib-python==4.5.1.48
     # via wildebeest
 packaging==20.9
     # via transformers
-pandas==1.2.4
+pandas==1.1.5
     # via wildebeest
 pillow==6.2.2
     # via
@@ -91,7 +91,7 @@ scikit-learn==0.24.1
     # via
     #   octopod (setup.py)
     #   wildebeest
-scipy==1.6.2
+scipy==1.5.4
     # via scikit-learn
 sentencepiece==0.1.95
     # via
